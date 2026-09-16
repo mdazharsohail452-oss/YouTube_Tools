@@ -64,3 +64,46 @@ Java` ·
 - Advanced thumbnail editor  
 - Keyword ranking analytics  
 - Creator dashboard with insights  
+
+Prerequisites
+
+- Java JDK 17+
+- Maven 3.8+
+- Git
+- Internet connection
+- Google Cloud account
+- YouTube Data API v3 enabled
+- YouTube Data API key
+- IntelliJ IDEA / VS Code / Eclipse
+
+Commands
+
+# Clone the repository
+git clone  
+
+# Open the project
+cd 
+
+# Check Java and Maven
+java -version
+mvn -version
+
+# Configure your YouTube API key
+# Set YOUTUBE_API_KEY in your environment/application.properties
+
+# Build the project
+mvn clean install
+
+# Run the Spring Boot application
+mvn spring-boot:run
+
+# Open in browser
+http://localhost:8080
+
+If Maven Wrapper is available
+
+# Windows
+mvnw.cmd spring-boot:run
+
+# Linux/macOS
+./mvnw spring-boot:run
