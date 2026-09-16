@@ -79,10 +79,10 @@ Prerequisites
 Commands
 
 # Clone the repository
-git clone  
+git clone  https://github.com/mdazharsohail452-oss/YouTube_Tools
 
 # Open the project
-cd 
+cd folder name where is project saved.
 
 # Check Java and Maven
 java -version
