@@ -4,37 +4,36 @@
 
 ---
 
-## ❓ The Problem
+## The Problem
 YouTube creators often struggle with:
-- ❌ Finding effective SEO tags  
-- ❌ Manual competitor research  
-- ❌ Creating eye-catching thumbnails consistently  
-- ❌ Low reach despite high-quality content  
+- Finding effective SEO tags  
+- Manual competitor research  
+-  Creating eye-catching thumbnails consistently  
+-  Low reach despite high-quality content  
 
 These issues reduce "discoverability, CTR, and growth".
 
 ---
 ## ✅ What I Solved
 I built a **Spring Boot–based solution** that:
-- 🔍 Searches videos using title or video ID  
-- 🏷 Extracts SEO-optimized tags automatically  
-- 🖼 Provides **customized thumbnail preview & download support**  
-- ⚡ Displays results instantly via a clean UI  
-- 🧠 Eliminates manual research and guesswork  
+- 🔍Searches videos using title or video ID  
+- Extracts SEO-optimized tags automatically  
+- Provides **customized thumbnail preview & download support**  
+-  Displays results instantly via a clean UI  
+- Eliminates manual research and guesswork  
 
 ---
 
 ## ✨ Key Features 
-- 🏷 Automatic tag extraction for SEO  
-- 🖼 Customized thumbnail generation & download
-- 📺 Video search & metadata retrieval 
-- 🧩 Clean MVC architecture  
-- 🚀 Fast REST API integration  
-- 🎨 Simple and creator-friendly UI  
+- Automatic tag extraction for SEO  
+- Customized thumbnail generation & download 
+- Clean MVC architecture  
+- Fast REST API integration  
+- Simple and creator-friendly UI  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 Java` ·
 `Spring Boot` ·
 `Thymeleaf` ·
@@ -43,16 +42,16 @@ Java` ·
 
 ---
 
-## 📈 Impact
-- 📊 Improves organic video reach & CTR  
-- ⏱ Saves creators significant time  
-- 🎯 Enhances video branding with custom thumbnails  
-- 💡 Solves real-world YouTube growth problems  
-- 🧪 Demonstrates strong backend engineering skills  
+## Impact
+- 📊Improves organic video reach & CTR  
+-  Saves creators significant time  
+-  Enhances video branding with custom thumbnails  
+-  Solves real-world YouTube growth problems  
+-  Demonstrates strong backend engineering skills  
 
 ---
 
-## 🌟 What Makes This Project Unique
+##  What Makes This Project Unique
 - Real-world YouTube Data API integration  
 - Backend-driven SEO & thumbnail optimization  
 - Clean service–controller separation  
@@ -60,8 +59,8 @@ Java` ·
 
 ---
 
-## 🔮 Future Enhancements
-- 🤖 AI-based tag & title recommendations  
-- 🎨 Advanced thumbnail editor  
-- 📊 Keyword ranking analytics  
-- 👤 Creator dashboard with insights  
+## Future Enhancements
+- AI-based tag & title recommendations  
+- Advanced thumbnail editor  
+- Keyword ranking analytics  
+- Creator dashboard with insights  
